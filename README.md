@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Abhijeet%20Shashwat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20that%20ships%20%E2%80%94%20Android,%20Agents%20%26%20Full-Stack&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Abhijeet%20Shashwat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20that%20ships%20%E2%80%94%20Android,%20Agents%20%26%20Full-Stack&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://www.linkedin.com/in/asp616848"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abhijeet.shash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://portfolio-asp616848s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://sadakvision.com"><img src="https://img.shields.io/badge/SadakVision-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-<a href="https://acadika.com"><img src="https://img.shields.io/badge/Acadika-7c3aed?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/asp616848" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abhijeet.shash@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfolio-asp616848s-projects.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://sadakvision.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SadakVision-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
+<a href="https://acadika.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Acadika-7c3aed?style=for-the-badge&logo=openai&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Product+Intern+%40+Adobe+(AJO+%7C+Agentic+AI);Founder+%40+Acadika+%E2%80%94+Agentic+AI+for+Schools;Team+Lead%2C+SadakVision+%E2%80%94+SDG-11+Road+Safety+%40+Dixon+IoT+Lab;CS+%26+AI+%40+Plaksha+%C2%B7+Data+Science+%40+IIT+Madras" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=820&height=100&lines=%F0%9F%92%BC+Product+Intern+%40+Adobe+%E2%80%94+Agentic+AI+for+AJO;%F0%9F%9A%80+Founder+%40+Acadika+%E2%80%94+Agentic+AI+for+Schools;%F0%9F%9A%A6+Team+Lead%2C+SadakVision+%E2%80%94+SDG-11+Road+Safety;%F0%9F%8E%93+CS+%26+AI+%40+Plaksha+%C2%B7+Data+Science+%40+IIT+Madras" />
 
 </div>
 
@@ -30,7 +32,7 @@ I'm Abhijeet — a full-stack + AI engineer who likes taking products from a rou
 <tr>
 <td width="50%" valign="top">
 
-#### 🚦 [SadakVision](https://sadakvision.com)
+#### 🚦 <a href="https://sadakvision.com" target="_blank" rel="noopener noreferrer">SadakVision</a>
 **AI-powered road safety & traffic monitoring**, built with Prof. Srikant Srinivasan's Dixon IoT Lab under an MoU with **Punjab Police**.
 
 - SDG-11 aligned mobile app + IoT module, designed for accessibility for non-tech-savvy users
@@ -38,12 +40,12 @@ I'm Abhijeet — a full-stack + AI engineer who likes taking products from a rou
 - AI-driven analysis of driver behavior, congestion, road quality, and weather
 - Led a 5-person team; shipped 30%+ gains across 4 performance/scalability metrics
 
-🔗 [Live site](https://sadakvision.com) · [Org](https://github.com/Dynamic-Road-Monitoring-and-Safety-Proj)
+🔗 <a href="https://sadakvision.com" target="_blank" rel="noopener noreferrer">Live site</a> · <a href="https://www.linkedin.com/company/sadak-vision" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 </td>
 <td width="50%" valign="top">
 
-#### 📚 [Acadika](https://acadika.com)
+#### 📚 <a href="https://acadika.com" target="_blank" rel="noopener noreferrer">Acadika</a>
 **Agentic AI automation for schools** — my own entrepreneurial venture.
 
 - Automates routine academic/admin workflows, saving **5–9 hrs/week/user**
@@ -51,7 +53,7 @@ I'm Abhijeet — a full-stack + AI engineer who likes taking products from a rou
 - Real-time voice agent at **~800ms latency** via Google ADK + WebSockets
 - Own product & engineering end-to-end: Railway, AWS, Supabase, Weaviate
 
-🔗 [Live site](https://acadika.com) · [Repo](https://github.com/asp616848/studybuddy-ai)
+🔗 <a href="https://acadika.com" target="_blank" rel="noopener noreferrer">Live site</a> · <a href="https://www.linkedin.com/company/acadika" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 </td>
 </tr>
@@ -75,12 +77,12 @@ I'm Abhijeet — a full-stack + AI engineer who likes taking products from a rou
 
 | Project | What it does |
 |---|---|
-| [CrossStyloGAN](https://github.com/asp616848/handwriting_autocomplete_system) | Transformer-enhanced handwriting-imitation GAN — FID 4.36, WER 2.48, via an HTR → GPT → GAN pipeline |
-| [Smart Cataloging (CV)](https://devpost.com/software/smart-cataloging) | 5-layer image → product-listing pipeline; cut listing time 83%, boosted match accuracy 26% via OCR + fuzzy matching |
-| [AdaptiveBandit](https://github.com/asp616848/AdaptiveBandit--Contextual-Bandits-for-Real-Time-Decision-Support-in-Customer-Service) | Contextual bandits for real-time customer-service decisioning |
-| [live-call-insight](https://github.com/asp616848/live-call-insight) | Real-time call analytics/insight dashboard |
-| [bank-vigil-live](https://github.com/asp616848/bank-vigil-live) | Live risk-monitoring dashboard for banking/fintech |
-| [jarvis-portal-verse](https://github.com/asp616848/jarvis-portal-verse) | Society web platform built for Jarvis Society, IIT Madras — boosted sign-ups/reach by 60% |
+| <a href="https://github.com/asp616848/handwriting_autocomplete_system" target="_blank" rel="noopener noreferrer">CrossStyloGAN</a> | Transformer-enhanced handwriting-imitation GAN — FID 4.36, WER 2.48, via an HTR → GPT → GAN pipeline |
+| <a href="https://devpost.com/software/smart-cataloging" target="_blank" rel="noopener noreferrer">Smart Cataloging (CV)</a> | 5-layer image → product-listing pipeline; cut listing time 83%, boosted match accuracy 26% via OCR + fuzzy matching |
+| <a href="https://github.com/asp616848/AdaptiveBandit--Contextual-Bandits-for-Real-Time-Decision-Support-in-Customer-Service" target="_blank" rel="noopener noreferrer">AdaptiveBandit</a> | Contextual bandits for real-time customer-service decisioning |
+| <a href="https://github.com/asp616848/live-call-insight" target="_blank" rel="noopener noreferrer">live-call-insight</a> | Flask + Gemini-powered real-time call analytics/insight dashboard |
+| <a href="https://github.com/asp616848/bank-vigil-live" target="_blank" rel="noopener noreferrer">bank-vigil-live</a> | Live fraud/risk-monitoring dashboard — device fingerprinting, bot detection, keystroke dynamics |
+| <a href="https://github.com/asp616848/jarvis-portal-verse" target="_blank" rel="noopener noreferrer">jarvis-portal-verse</a> | Society web platform built for Jarvis Society, IIT Madras — boosted sign-ups/reach by 60% |
 
 ---
 
@@ -103,15 +105,18 @@ I'm Abhijeet — a full-stack + AI engineer who likes taking products from a rou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asp616848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp616848&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asp616848&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp616848&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asp616848&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=asp616848&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=asp616848&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=asp616848&style=for-the-badge&color=2563eb&label=Profile+Views" />
+
+<br/><br/>
+<sub>Some widgets above are served by shared public demo instances (github-readme-stats / trophy) and can briefly show a broken-image icon under load — they self-heal on GitHub's next cache refresh, or immediately if you re-open this file and hit "Edit → Save" once.</sub>
 
 </div>

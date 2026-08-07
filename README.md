@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Abhijeet%20Shashwat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20that%20ships%20%E2%80%94%20Android,%20Agents%20%26%20Full-Stack&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Abhijeet%20Shashwat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20that%20ships%20%E2%80%94%20Android,%20Agents%2C%20and%20Full-Stack&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://www.linkedin.com/in/asp616848" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abhijeet.shash@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=820&height=100&lines=%F0%9F%92%BC+Product+Intern+%40+Adobe+%E2%80%94+Agentic+AI+for+AJO;%F0%9F%9A%80+Founder+%40+Acadika+%E2%80%94+Agentic+AI+for+Schools;%F0%9F%9A%A6+Team+Lead%2C+SadakVision+%E2%80%94+SDG-11+Road+Safety;%F0%9F%8E%93+CS+%26+AI+%40+Plaksha+%C2%B7+Data+Science+%40+IIT+Madras" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=820&height=100&lines=%F0%9F%92%BC+Product+Intern+%40+Adobe+%E2%80%94+Agentic+AI+for+AJO;%F0%9F%9A%80+Founder+%40+Acadika+%E2%80%94+Agentic+AI+for+Schools;%F0%9F%9A%A6+Team+Lead%2C+SadakVision+%E2%80%94+SDG-11+Road+Safety;%F0%9F%8E%93+CS+and+AI+%40+Plaksha+%C2%B7+Data+Science+%40+IIT+Madras" />
 
 </div>
 
@@ -105,14 +105,14 @@ I'm Abhijeet — a full-stack + AI engineer who likes taking products from a rou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asp616848&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp616848&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=asp616848&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=asp616848&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=asp616848&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
-<sub>Some widgets above are served by shared public demo instances (github-readme-stats / trophy) and can briefly show a broken-image icon under load — they self-heal on GitHub's next cache refresh, or immediately if you re-open this file and hit "Edit → Save" once.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asp616848/asp616848/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asp616848/asp616848/output/github-contribution-grid-snake.svg">
+  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/asp616848/asp616848/output/github-contribution-grid-snake.svg" width="90%"/>
+</picture>
 
 </div>

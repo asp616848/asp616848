@@ -18,7 +18,7 @@
 
 I'm Abhijeet — a full-stack + AI engineer who likes taking products from a rough idea to something real users depend on. Currently a **Product Intern at Adobe** building agentic AI tooling for Journey Optimizer, while running **Acadika** (an agentic AI automation venture for schools) and leading engineering on **SadakVision**, an SDG-11 road-safety platform built with the Dixon IoT Lab under a Punjab Police MoU.
 
-- 🎓 B.Tech Computer Science & AI @ **Plaksha University** (9.19/10) · Data Science (Diploma) @ **IIT Madras**
+- 🎓 B.Tech Computer Science & AI @ **Plaksha University** · Data Science (Diploma) @ **IIT Madras**
 - 🧠 Currently shipping: agentic pipelines, real-time voice agents, and computer-vision-driven monitoring systems
 - 🏆 $30,000 Assembly AI grant + $2,000 Google Vertex AI grant for Acadika · 1st prize @ Dot-Slash Hackathon (565 teams)
 - 💬 Ask me about Android (MVVM/DI), agentic AI systems, real-time voice pipelines, or computer vision
@@ -111,10 +111,6 @@ I'm Abhijeet — a full-stack + AI engineer who likes taking products from a rou
 <img src="https://streak-stats.demolab.com/?user=asp616848&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=asp616848&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=asp616848&style=for-the-badge&color=2563eb&label=Profile+Views" />
 
 <br/><br/>
 <sub>Some widgets above are served by shared public demo instances (github-readme-stats / trophy) and can briefly show a broken-image icon under load — they self-heal on GitHub's next cache refresh, or immediately if you re-open this file and hit "Edit → Save" once.</sub>

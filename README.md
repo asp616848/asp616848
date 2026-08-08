@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=820&height=100&lines=%F0%9F%92%BC+Product+Intern+%40+Adobe+%E2%80%94+Agentic+AI+for+AJO;%F0%9F%9A%80+Founder+%40+Acadika+%E2%80%94+Agentic+AI+for+Schools;%F0%9F%9A%A6+Team+Lead%2C+SadakVision+%E2%80%94+SDG-11+Road+Safety;%F0%9F%8E%93+CS+and+AI+%40+Plaksha+%C2%B7+Data+Science+%40+IIT+Madras" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=820&height=100&lines=%F0%9F%92%BC+Product+Intern+%40+Adobe+%E2%80%94+Agentic+AI+for+AJO;%F0%9F%9A%80+Founder+%40+Acadika+%E2%80%94+AI+Native+School+OS;%F0%9F%9A%A6+Team+Lead%2C+SadakVision+%E2%80%94+SDG-11+Road+Safety;%F0%9F%8E%93+CS+and+AI+%40+Plaksha+%C2%B7+Data+Science+%40+IIT+Madras" />
 
 </div>
 

@@ -20,6 +20,7 @@ I'm Abhijeet — a full-stack + AI engineer who likes taking products from a rou
 
 - 🎓 B.Tech Computer Science & AI @ **Plaksha University** · Data Science (Diploma) @ **IIT Madras**
 - 🧠 Currently shipping: agentic pipelines, real-time voice agents, and computer-vision-driven monitoring systems
+- 🧾 Research Paper publication soon via Taylor & Francis (INDIS 2026).
 - 🏆 $30,000 Assembly AI grant + $2,000 Google Vertex AI grant for Acadika · 1st prize @ Dot-Slash Hackathon (565 teams)
 - 💬 Ask me about Android (MVVM/DI), agentic AI systems, real-time voice pipelines, or computer vision
 - 📫 abhijeet.shash@gmail.com
